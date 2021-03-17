@@ -1,5 +1,7 @@
 import { RepositoryItem } from "./RepositoryItem";
 
+import '../styles/repositories.scss';
+
 //passando propriedade para o componente filho
 const repository = {
     name: 'unform',
